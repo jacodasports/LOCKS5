@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xml>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id ="FINALiosVERSION"
+    versionCode = "1"
+    version     = "1.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>FINALiosVERSION</name>
+
+  <description>
+      Generated with Justinmind
+  </description>
+
+  <author href="" email="JacodaSports@gmail.com">
+      Jacoda Sports LLC
+      </author>
+
+
+</widget>
